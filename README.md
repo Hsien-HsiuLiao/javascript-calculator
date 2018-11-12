@@ -1,4 +1,4 @@
 # javascript-calculator
 
-created using jQuery
+created using jQuery, from freeCodeCamp's curriculum
 
